@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfiniteTalk</string>
+    <string name="select_user">Select User</string>
+    <string name="online">online</string>
+</resources>

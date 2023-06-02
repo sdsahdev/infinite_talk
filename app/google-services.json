@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894389513918",
+    "project_id": "infinite-4bc0a",
+    "storage_bucket": "infinite-4bc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894389513918:android:69a833dba9677f88ee78ef",
+        "android_client_info": {
+          "package_name": "com.example.infinitetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894389513918-6f1lchq5lla0qp184b0emqmjagdic3bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infinitetalk",
+            "certificate_hash": "a68a1aa1c2f7bbc475008177fe7e600003850b96"
+          }
+        },
+        {
+          "client_id": "894389513918-cm231ntavnh7m3qr1jgb8218ei70pk8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OgrlBW2T7zrmAKwyPW6N7qXO6n0G7KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894389513918-cm231ntavnh7m3qr1jgb8218ei70pk8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,7 +2,7 @@
 
 Chat App Project in Android using Realtime Firebase Database
 
-#Introduction
+<h1>Introduction</h1>
 
 This Android chat application is a practice project created to kickstart your career in mobile app development. The app is built in Java and utilizes Firebase Realtime Database for real-time messaging capabilities. It includes essential features like user status (online/offline), chat notifications, user authentication (login/register), and more.
 

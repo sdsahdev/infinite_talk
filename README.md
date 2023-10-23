@@ -1,4 +1,4 @@
-# infinite_talk
+# Infinite Talk
 
 Chat App Project in Android using Realtime Firebase Database
 
